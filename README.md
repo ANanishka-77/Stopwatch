@@ -1,6 +1,8 @@
 # Stopwatch
 
 Stopwatch Web Application – Detailed Description
+<img width="1920" height="1080" alt="Screenshot 2026-03-27 230040" src="https://github.com/user-attachments/assets/77aadc47-be5e-408b-bf7f-e45e9a57616d" />
+
 
 The Stopwatch Web Application is a front-end project designed to accurately measure and display elapsed time through an intuitive and interactive user interface. It is developed using core web technologies—HTML, CSS, and JavaScript—and demonstrates the practical implementation of time-based functions and dynamic content handling in web development.
 
@@ -33,10 +35,7 @@ Responsive Design:
 Ensures usability across different screen sizes and devices.
 
 
-🛠️ Technical Implementation<img width="1920" height="1080" alt="Screenshot 2026-03-27 230040" src="https://github.com/user-attachments/assets/f481efd3-fa86-4866-8b0a-f63f411ecf52" />
-<img width="1920" height="1080" alt="Screenshot 2026-03-27 230021" src="https://github.com/user-attachments/assets/02c212e3-5d63-4651-84df-93d24bea1c65" />
-<img width="1920" height="1080" alt="Screenshot 2026-03-27 230007" src="https://github.com/user-attachments/assets/d8ebdb78-1d96-4fef-b6c4-a883be231aa6" />
-
+🛠️ Technical Implementation<img
 
 HTML (Structure):
 Defines the layout of the stopwatch, including display areas and control buttons.
@@ -46,3 +45,6 @@ JavaScript (Logic & Functionality):
 Uses setInterval() and clearInterval() for time control
 Implements DOM manipulation (getElementById, createElement, appendChild)
 Handles event-driven programming through button interactions
+<img width="1920" height="1080" alt="Screenshot 2026-03-27 230021" src="https://github.com/user-attachments/assets/07186af7-d898-4e58-a833-fadd1fa75812" />
+<img width="1920" height="1080" alt="Screenshot 2026-03-27 230007" src="https://github.com/user-attachments/assets/0530ac70-dce4-40b7-b413-163e506e1be3" />
+

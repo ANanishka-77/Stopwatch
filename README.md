@@ -1,8 +1,7 @@
 # Stopwatch
-
-Stopwatch Web Application – Detailed Description
 <img width="1920" height="1080" alt="Screenshot 2026-03-27 230040" src="https://github.com/user-attachments/assets/77aadc47-be5e-408b-bf7f-e45e9a57616d" />
 
+Stopwatch Web Application – Detailed Description
 
 The Stopwatch Web Application is a front-end project designed to accurately measure and display elapsed time through an intuitive and interactive user interface. It is developed using core web technologies—HTML, CSS, and JavaScript—and demonstrates the practical implementation of time-based functions and dynamic content handling in web development.
 
